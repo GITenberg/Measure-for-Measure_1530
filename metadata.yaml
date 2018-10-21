@@ -1,5 +1,5 @@
 _repo: Measure-for-Measure_1530
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcsh 'Chastity -- Drama'
 - !lcsh 'Comedies'
 - !lcc 'PR'
+- GITenberg
 title: Measure for Measure
 url: http://www.gutenberg.org/ebooks/1530
